@@ -6,7 +6,7 @@
 
 **I’m Christian, and I’m passionate about creating educational tech content for IT Pros and Homelab nerds.**
 
-This Repository **Dotfiles-win** contain my personal config files for Windows. However, mostly I'm using mac OS, if you're looking for these files, check out my mac OS [Dotfiles](https://github.com/christianlempa/dotfiles).
+This Repository **Dotfiles-win** contain my personal config files for Windows. However, mostly I'm using macOS, if you're looking for these files, check out my macOS [Dotfiles](https://github.com/christianlempa/dotfiles).
 
 > :warning: Be aware, products can change over time. I do my best to keep up with the latest changes and releases, but please understand that this won’t always be the case.
 
